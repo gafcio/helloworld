@@ -1,0 +1,14 @@
+#lista1 {
+    list-style-type: square;
+}
+
+#lista2 ul {
+    list-style-type: none;
+    
+}
+
+#lista2 li {
+    display: inline-block;
+    margin: 0 20px;
+    color: darkcyan;
+}

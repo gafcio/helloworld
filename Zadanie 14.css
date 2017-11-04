@@ -1,0 +1,19 @@
+.zadanie1{
+    font-size: 25px;
+    color: grey;
+    margin: 0;
+}
+
+label{
+    color: grey;
+}
+
+.formularz1 {
+    width: 500px;
+}
+
+#guzik {
+    display: block;
+    width: 120px;
+    height: 25px;
+}
